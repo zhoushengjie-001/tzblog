@@ -1,7 +1,7 @@
-const api_01 = 'http://47.99.39.186:9002/'
-const api_02 = 'http://47.99.39.186:9005/'
-const api_03 = 'http://47.99.39.186:9006/'
-const api_04 = 'http://47.99.39.186:9007/'
+const api_01 = ''
+const api_02 = ''
+const api_03 = ''
+const api_04 = ''
 
 
 module.exports = {
