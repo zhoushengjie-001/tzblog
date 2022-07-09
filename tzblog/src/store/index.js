@@ -16,7 +16,7 @@ export default new Vuex.Store({
     username: '',
     vueElementLoading: false,
     newForm: {}, //存储当前用户数据
-    defaultImg: 'http://47.99.39.186:7008/小周不怕黑/fbe2be74-5d95-4a69-ad52-cb9344a58b92.jpg',
+    defaultImg: '/小周不怕黑/fbe2be74-5d95-4a69-ad52-cb9344a58b92.jpg',
     imgStatus: 0,
     statusFlag: 0, //存储markdown状态
     noSeeMessage: 0, //未看消息数
